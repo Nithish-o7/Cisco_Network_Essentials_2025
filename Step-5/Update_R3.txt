@@ -1,0 +1,11 @@
+hostname R3
+!
+interface GigabitEthernet0/0
+ ip address 10.2.3.3 255.255.255.0
+!
+interface GigabitEthernet0/1
+ ip address 10.3.4.3 255.255.255.0
+!
+router ospf 1
+ network 10.2.3.0 0.0.0.255 area 0
+ network 10.3.4.0 0.0.0.255 area 0
