@@ -25,3 +25,7 @@ Navigate into your project folder using the cd command (e.g., cd Desktop/CiscoNe
 
 Run the script by typing: python network_analyzer.py
 
+# Expected Output:
+
+<img width="400" height="311" alt="Screenshot 2025-08-29 at 9 08 42 PM" src="https://github.com/user-attachments/assets/fdfe03e3-00c7-4478-a024-45b40d83953f" />
+
