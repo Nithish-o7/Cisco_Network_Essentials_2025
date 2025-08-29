@@ -17,5 +17,6 @@ Open your terminal or command prompt and make sure you are in the CiscoNetworkPr
 
 Run the script: python network_analyzer.py
 
+## Expected Output:
 
-
+<img width="393" height="239" alt="Screenshot 2025-08-29 at 9 23 21 PM" src="https://github.com/user-attachments/assets/5e418fac-a00e-4d1f-9073-b1e2407246e6" />
