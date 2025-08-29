@@ -1,3 +1,9 @@
+# Step-2
+
+I will now provide the updated code. We will add a new, crucial function called ` get_network_address ` and then use it to compare two router configurations. This new code builds directly on top of what you already have.
+
+Here is the updated network_analyzer.py script. I've included the previous function and added the new logic for link discovery.
+
 ## How to Execute This Code
 ## Update Your Python Script:
 

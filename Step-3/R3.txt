@@ -1,0 +1,9 @@
+!
+hostname R3
+!
+interface GigabitEthernet0/0
+ description Link to R2
+ ip address 10.2.2.2 255.255.255.0
+ no shutdown
+!
+end
