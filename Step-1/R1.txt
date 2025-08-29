@@ -1,0 +1,18 @@
+!
+hostname R1
+!
+interface GigabitEthernet0/0
+ description Link to R2
+ ip address 10.1.1.1 255.255.255.0
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description Management Interface
+ ip address 192.168.1.1 255.255.255.0
+ no shutdown
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+end
